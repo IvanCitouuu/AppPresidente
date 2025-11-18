@@ -52,7 +52,44 @@ object PresidentsRepository {
     val presidents = listOf(
         President("Patricio Aylwin", "1990–1994", R.drawable.aylwin, "Primer presidente tras la dictadura...", listOf("Transición democrática", "Reformas constitucionales")),
         President("Eduardo Frei", "1994–2000", R.drawable.frei, "Impulsó modernización económica...", listOf("Infraestructura", "Acuerdos comerciales")),
-        President("Michelle Bachelet", "2006–2010", R.drawable.bachelet, "Primera presidenta mujer...", listOf("Reformas sociales", "Educación gratuita"))
+        President("Michelle Bachelet", "2006–2010", R.drawable.bachelet, "Primera presidenta mujer...", listOf("Reformas sociales", "Educación gratuita")),
+        President("Patricio Aylwin", "1990–1994", R.drawable.aylwin, "Primer presidente tras la dictadura...", listOf("Transición democrática", "Reformas constitucionales")),
+        President("Patricio Aylwin", "1990–1994", R.drawable.aylwin, "Primer presidente tras la dictadura...", listOf("Transición democrática", "Reformas constitucionales")),
+        President("Patricio Aylwin", "1990–1994", R.drawable.aylwin, "Primer presidente tras la dictadura...", listOf("Transición democrática", "Reformas constitucionales")),
+        President("Patricio Aylwin", "1990–1994", R.drawable.aylwin, "Primer presidente tras la dictadura...", listOf("Transición democrática", "Reformas constitucionales")),
+        President("Patricio Aylwin", "1990–1994", R.drawable.aylwin, "Primer presidente tras la dictadura...", listOf("Transición democrática", "Reformas constitucionales")),
+        President("Patricio Aylwin", "1990–1994", R.drawable.aylwin, "Primer presidente tras la dictadura...", listOf("Transición democrática", "Reformas constitucionales")),
+        President("Patricio Aylwin", "1990–1994", R.drawable.aylwin, "Primer presidente tras la dictadura...", listOf("Transición democrática", "Reformas constitucionales")),
+        President("Patricio Aylwin", "1990–1994", R.drawable.aylwin, "Primer presidente tras la dictadura...", listOf("Transición democrática", "Reformas constitucionales")),
+        President("Patricio Aylwin", "1990–1994", R.drawable.aylwin, "Primer presidente tras la dictadura...", listOf("Transición democrática", "Reformas constitucionales")),
+        President("Patricio Aylwin", "1990–1994", R.drawable.aylwin, "Primer presidente tras la dictadura...", listOf("Transición democrática", "Reformas constitucionales")),
+        President("Patricio Aylwin", "1990–1994", R.drawable.aylwin, "Primer presidente tras la dictadura...", listOf("Transición democrática", "Reformas constitucionales")),
+        President("Patricio Aylwin", "1990–1994", R.drawable.aylwin, "Primer presidente tras la dictadura...", listOf("Transición democrática", "Reformas constitucionales")),
+        President("Patricio Aylwin", "1990–1994", R.drawable.aylwin, "Primer presidente tras la dictadura...", listOf("Transición democrática", "Reformas constitucionales")),
+        President("Patricio Aylwin", "1990–1994", R.drawable.aylwin, "Primer presidente tras la dictadura...", listOf("Transición democrática", "Reformas constitucionales")),
+        President("Patricio Aylwin", "1990–1994", R.drawable.aylwin, "Primer presidente tras la dictadura...", listOf("Transición democrática", "Reformas constitucionales")),
+        President("Patricio Aylwin", "1990–1994", R.drawable.aylwin, "Primer presidente tras la dictadura...", listOf("Transición democrática", "Reformas constitucionales")),
+        President("Patricio Aylwin", "1990–1994", R.drawable.aylwin, "Primer presidente tras la dictadura...", listOf("Transición democrática", "Reformas constitucionales")),
+        President("Patricio Aylwin", "1990–1994", R.drawable.aylwin, "Primer presidente tras la dictadura...", listOf("Transición democrática", "Reformas constitucionales")),
+        President("Patricio Aylwin", "1990–1994", R.drawable.aylwin, "Primer presidente tras la dictadura...", listOf("Transición democrática", "Reformas constitucionales")),
+        President("Patricio Aylwin", "1990–1994", R.drawable.aylwin, "Primer presidente tras la dictadura...", listOf("Transición democrática", "Reformas constitucionales")),
+        President("Patricio Aylwin", "1990–1994", R.drawable.aylwin, "Primer presidente tras la dictadura...", listOf("Transición democrática", "Reformas constitucionales")),
+        President("Patricio Aylwin", "1990–1994", R.drawable.aylwin, "Primer presidente tras la dictadura...", listOf("Transición democrática", "Reformas constitucionales")),
+        President("Patricio Aylwin", "1990–1994", R.drawable.aylwin, "Primer presidente tras la dictadura...", listOf("Transición democrática", "Reformas constitucionales")),
+        President("Patricio Aylwin", "1990–1994", R.drawable.aylwin, "Primer presidente tras la dictadura...", listOf("Transición democrática", "Reformas constitucionales")),
+        President("Patricio Aylwin", "1990–1994", R.drawable.aylwin, "Primer presidente tras la dictadura...", listOf("Transición democrática", "Reformas constitucionales")),
+        President("Patricio Aylwin", "1990–1994", R.drawable.aylwin, "Primer presidente tras la dictadura...", listOf("Transición democrática", "Reformas constitucionales")),
+        President("Patricio Aylwin", "1990–1994", R.drawable.aylwin, "Primer presidente tras la dictadura...", listOf("Transición democrática", "Reformas constitucionales")),
+        President("Patricio Aylwin", "1990–1994", R.drawable.aylwin, "Primer presidente tras la dictadura...", listOf("Transición democrática", "Reformas constitucionales")),
+        President("Patricio Aylwin", "1990–1994", R.drawable.aylwin, "Primer presidente tras la dictadura...", listOf("Transición democrática", "Reformas constitucionales")),
+        President("Patricio Aylwin", "1990–1994", R.drawable.aylwin, "Primer presidente tras la dictadura...", listOf("Transición democrática", "Reformas constitucionales")),
+        President("Patricio Aylwin", "1990–1994", R.drawable.aylwin, "Primer presidente tras la dictadura...", listOf("Transición democrática", "Reformas constitucionales")),
+        President("Patricio Aylwin", "1990–1994", R.drawable.aylwin, "Primer presidente tras la dictadura...", listOf("Transición democrática", "Reformas constitucionales")),
+        President("Patricio Aylwin", "1990–1994", R.drawable.aylwin, "Primer presidente tras la dictadura...", listOf("Transición democrática", "Reformas constitucionales")),
+        President("Patricio Aylwin", "1990–1994", R.drawable.aylwin, "Primer presidente tras la dictadura...", listOf("Transición democrática", "Reformas constitucionales")),
+        President("Patricio Aylwin", "1990–1994", R.drawable.aylwin, "Primer presidente tras la dictadura...", listOf("Transición democrática", "Reformas constitucionales")),
+        President("Patricio Aylwin", "1990–1994", R.drawable.aylwin, "Primer presidente tras la dictadura...", listOf("Transición democrática", "Reformas constitucionales")),
+        President("Patricio Aylwin", "1990–1994", R.drawable.aylwin, "Primer presidente tras la dictadura...", listOf("Transición democrática", "Reformas constitucionales"))
     )
 }
 
@@ -70,7 +107,7 @@ fun TimelineScreen(presidents: List<President>, navController: NavHostController
         LazyColumn(
             modifier = Modifier
                 .fillMaxSize()
-                .padding(horizontal = 24.dp)
+                .padding(horizontal = 2.dp)
         ) {
             itemsIndexed(presidents) { index, president ->
                 val isLeftAligned = index % 2 == 0
@@ -84,6 +121,7 @@ fun TimelineScreen(presidents: List<President>, navController: NavHostController
     }
 }
 
+
 @Composable
 fun TimelineItem(
     president: President,
@@ -92,19 +130,63 @@ fun TimelineItem(
 ) {
     var expanded by remember { mutableStateOf(false) }
 
-    Column(
+    Row(
         modifier = Modifier
             .fillMaxWidth()
-            .padding(vertical = 16.dp)
+            .padding(vertical = 12.dp),
+        verticalAlignment = Alignment.CenterVertically
     ) {
-        Row(
-            horizontalArrangement = if (isLeftAligned) Arrangement.Start else Arrangement.End,
-            verticalAlignment = Alignment.CenterVertically,
-            modifier = Modifier.fillMaxWidth()
-        ) {
-            Row(verticalAlignment = Alignment.CenterVertically) {
-                if (!isLeftAligned) Spacer(modifier = Modifier.width(32.dp))
 
+        // IZQUIERDA
+        if (isLeftAligned) {
+            Row(
+                modifier = Modifier.weight(1f),
+                horizontalArrangement = Arrangement.End,
+                verticalAlignment = Alignment.CenterVertically
+            ) {
+                // Texto primero (hacia adentro)
+                Column(
+                    modifier = Modifier.clickable { expanded = !expanded },
+                    horizontalAlignment = Alignment.End
+                ) {
+                    Text(text = president.name, style = MaterialTheme.typography.titleMedium)
+                    Text(text = president.term, style = MaterialTheme.typography.bodyMedium)
+                }
+
+                Spacer(modifier = Modifier.width(12.dp))
+
+                // Círculo AHORA afuera
+                Image(
+                    painter = painterResource(id = president.photoResId),
+                    contentDescription = president.name,
+                    modifier = Modifier
+                        .size(72.dp)
+                        .clip(CircleShape)
+                        .border(2.dp, Color.Gray, CircleShape)
+                        .clickable { onClick() }
+                )
+            }
+        } else {
+            Spacer(modifier = Modifier.weight(1f))
+        }
+
+        // LÍNEA CENTRAL
+        Box(
+            modifier = Modifier
+                .width(2.dp)
+                .height(80.dp)
+                .background(Color.LightGray)
+        )
+
+        // DERECHA
+        if (!isLeftAligned) {
+            Row(
+                modifier = Modifier.weight(1f),
+                horizontalArrangement = Arrangement.Start,
+                verticalAlignment = Alignment.CenterVertically
+            ) {
+
+                // Círculo AHORA afuera
                 Image(
                     painter = painterResource(id = president.photoResId),
                     contentDescription = president.name,
@@ -115,20 +197,25 @@ fun TimelineItem(
                         .clickable { onClick() }
                 )
 
-                Spacer(modifier = Modifier.width(16.dp))
+                Spacer(modifier = Modifier.width(12.dp))
 
+                // Texto después (hacia adentro)
                 Column(
-                    modifier = Modifier.clickable { expanded = !expanded } // ahora sí se expande
+                    modifier = Modifier.clickable { expanded = !expanded },
+                    horizontalAlignment = Alignment.Start
                 ) {
                     Text(text = president.name, style = MaterialTheme.typography.titleMedium)
                     Text(text = president.term, style = MaterialTheme.typography.bodyMedium)
                 }
-
-                if (isLeftAligned) Spacer(modifier = Modifier.width(32.dp))
             }
+        } else {
+            Spacer(modifier = Modifier.weight(1f))
         }
+    }
 
-        if (expanded) {
+    // EXPANDIDO
+    if (expanded) {
+        Column(modifier = Modifier.padding(horizontal = 24.dp)) {
             Spacer(modifier = Modifier.height(8.dp))
             Text(text = president.bio, style = MaterialTheme.typography.bodyMedium)
             Spacer(modifier = Modifier.height(8.dp))
@@ -139,6 +226,7 @@ fun TimelineItem(
         }
     }
 }
+
 
 @Composable
 fun PresidentDetailScreen(president: President, navController: NavHostController) {
